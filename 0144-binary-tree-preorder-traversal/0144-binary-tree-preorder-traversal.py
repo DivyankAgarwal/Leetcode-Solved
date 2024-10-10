@@ -9,18 +9,44 @@ class Solution:
 
         #recursive
 
-        def helper(root, result):
-            if root is None:
-                return
+        # def helper(root, result):
+        #     if root is None:
+        #         return
 
-            result.append(root.val)
-            helper(root.left, result)
-            helper(root.right, result)
+        #     result.append(root.val)
+        #     helper(root.left, result)
+        #     helper(root.right, result)
 
 
-        result = []
+        # result = []
 
-        helper(root, result)
+        # helper(root, result)
 
-        return result
+        # return result
+
+
+        #iterative
+
+        preorder = []
+        stack = []
+
+        if root is None:
+            return preorder
+
+        stack.append(root)
+
+        while stack:
+            root = stack.pop()
+
+            preorder.append(root.val)
+
+
+            if root.right:
+                stack.append(root.right)
+
+
+            if root.left:
+                stack.append(root.left)
+
+        return preorder
         
