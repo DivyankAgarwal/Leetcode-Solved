@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1002-maximum-width-ramp) |
 ## Monotonic Stack
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Math
 |  |
@@ -127,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
