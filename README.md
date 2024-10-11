@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0543-diameter-of-binary-tree) |
+| [0545-boundary-of-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0545-boundary-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0543-diameter-of-binary-tree) |
+| [0545-boundary-of-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0545-boundary-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Math
 |  |
@@ -161,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0543-diameter-of-binary-tree) |
+| [0545-boundary-of-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0545-boundary-of-binary-tree) |
 <!---LeetCode Topics End-->
