@@ -7,25 +7,27 @@
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
 
-        def check(main_root):
-            if main_root is None:
-                return False
-
-            elif checkidentical(main_root, subRoot):
+        def checkifidentical(root1, root2):
+            if not root1 and not root2:
                 return True
-            
-            return check(main_root.left) or check(main_root.right)
 
-            
+            if root1 and root2 and root1.val == root2.val:
+                return (checkifidentical(root1.left, root2.left) and checkifidentical(root1.right, root2.right))
 
-        def checkidentical(root1, root2):
-            if root1 is None or root2 is None:
-                return root1 is None and root2 is None
+        if not subRoot:
+            return True
 
-            return (root1.val == root2.val) and checkidentical(root1.left, root2.left) and checkidentical(root1.right, root2.right)
+        if not root:
+            return False
 
+        if checkifidentical(root, subRoot):
+            return True
+
+        return (self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot))
 
         
+            
+
         
 
-        return check(root)
+    
