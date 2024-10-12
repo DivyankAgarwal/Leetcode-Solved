@@ -7,7 +7,27 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-
+        '''
+        Approach
+        Start by checking if the current root node is null or matches one of the target 
+        nodes (x or y). If the root is null or matches either target node, then return 
+        the root, as it could potentially be the LCA or simply indicate the end of the 
+        search path.
+        Perform a recursive search in the left subtree to find the nodes x and y. 
+        This involves calling the LCA function on the left child of the current root.
+        Similarly, perform a recursive search in the right subtree. This entails calling 
+        the LCA function on the right child of the current root.
+        After completing the recursive searches, analyze the results 
+        of both subtree searches. If both recursive calls return non-null values, 
+        it implies that one target node was found in each subtree. 
+        Consequently, the current root node must be the LCA, as it is the common ancestor 
+        of both nodes.
+        If only one of the subtree searches returns a non-null result, 
+        it indicates that both target nodes are located within the same 
+        subtree. In this case, return the non-null result, which represents 
+        the LCA found in that subtree.
+        
+        '''
         if root == None or root == p or root == q:
             return root
 
