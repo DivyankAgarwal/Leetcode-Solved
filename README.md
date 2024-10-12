@@ -118,12 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0545-boundary-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0545-boundary-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Math
