@@ -26,7 +26,10 @@ class Solution:
         #optimal
 
         self.k = k
+        self.newk = k
         self.result = None
+        self.result2 = None
+
         
         def inorder(root):
             if not root:
@@ -40,8 +43,22 @@ class Solution:
                 return
         
             inorder(root.right)
+
+        def inorder_reverse(root):#finding Kth largest element
+            if not root:
+                return
+
+            inorder(root.right)
+            self.newk -=1
+            if self.newk == 0:
+                self.result2 = root.val
+                return
+
+            inorder(root.left)
         
     
         inorder(root)
+        inorder_reverse(root)
+        print(self.result2)
         return self.result
         
