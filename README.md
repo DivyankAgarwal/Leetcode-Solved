@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0443-string-compression) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0036-valid-sudoku) |
 | [1331-path-with-maximum-gold](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1331-path-with-maximum-gold) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 <!---LeetCode Topics End-->
