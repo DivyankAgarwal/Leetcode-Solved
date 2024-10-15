@@ -7,7 +7,7 @@ class Solution:
         center = ''
 
         
-        for digit in range(9,-1,-1):  
+        for digit in reversed(range(0,10)):  
             digit_char = str(digit)
 
             if digit_char in digit_counts:
