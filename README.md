@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2413-smallest-number-in-infinite-set) |
+| [2475-largest-palindromic-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2475-largest-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0443-string-compression) |
 | [1304-longest-happy-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1304-longest-happy-string) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2475-largest-palindromic-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2475-largest-palindromic-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -193,10 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [1304-longest-happy-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1304-longest-happy-string) |
+| [2475-largest-palindromic-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2475-largest-palindromic-number) |
 ## Counting
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
+| [2475-largest-palindromic-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2475-largest-palindromic-number) |
 ## Two Pointers
 |  |
 | ------- |
