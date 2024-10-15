@@ -44,7 +44,7 @@ class Solution:
         steps = 0
 
        
-        while num > 1:
+        while num != 1:
             if num % 2 == 0:  
                 num //= 2     
             else:
