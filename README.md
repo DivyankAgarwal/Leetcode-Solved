@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0257-binary-tree-paths) |
+| [0394-decode-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0443-string-compression) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Breadth-First Search
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0394-decode-string) |
 | [0937-online-stock-span](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1002-maximum-width-ramp) |
 ## Monotonic Stack
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0394-decode-string) |
 ## String Matching
 |  |
 | ------- |
