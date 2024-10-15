@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1127-last-stone-weight) |
+| [1331-path-with-maximum-gold](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1331-path-with-maximum-gold) |
 ## Stack
 |  |
 | ------- |
@@ -242,8 +243,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0257-binary-tree-paths) |
+| [1331-path-with-maximum-gold](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1331-path-with-maximum-gold) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0036-valid-sudoku) |
+| [1331-path-with-maximum-gold](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1331-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
