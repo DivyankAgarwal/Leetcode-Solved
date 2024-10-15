@@ -40,16 +40,37 @@ class Solution:
         #optimal.
         
         
-        num = int(s, 2)  
-        steps = 0
+        # num = int(s, 2)  
+        # steps = 0
 
        
-        while num != 1:
-            if num % 2 == 0:  
-                num //= 2     
-            else:
-                num += 1      
-            steps += 1        
+        # while num != 1:
+        #     if num % 2 == 0:  
+        #         num //= 2     
+        #     else:
+        #         num += 1      
+        #     steps += 1        
 
-        return steps
+        # return steps
+
+
+        #Optimal - without converting to integer
+
+        steps = 0
+        carry = 0  
         
+        
+        for i in reversed(range(1,len(s))):
+
+            digit = (int(s[i]) + carry) % 2
+
+            print(digit)
+
+            if digit == 0:
+                steps +=1
+            
+            elif digit == 1:
+                steps += 2
+                carry = 1
+
+        return steps+carry
