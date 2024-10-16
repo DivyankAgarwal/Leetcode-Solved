@@ -3,29 +3,29 @@ class Solution:
 
         #Brute
 
-        # anagrams = defaultdict(list)  
+        anagrams = defaultdict(list)  
         
-        # for word in strs:
-        #     sorted_word = ''.join(sorted(word))  
-        #     anagrams[sorted_word].append(word) 
+        for word in strs:
+            sorted_word = ''.join(sorted(word))  
+            anagrams[sorted_word].append(word) 
         
-        # return list(anagrams.values())
+        return list(anagrams.values())
 
 
         #optimal
 
-        anagrams = defaultdict(list)  
+        # anagrams = defaultdict(list)  
 
-        for word in strs:
-            count = [0] * 26 
+        # for word in strs:
+        #     count = [0] * 26 
             
-            for char in word:
-                count[ord(char) - ord('a')] += 1  
-            print(count)
+        #     for char in word:
+        #         count[ord(char) - ord('a')] += 1  
+        #     print(count)
             
-            anagrams[tuple(count)].append(word)  # Use tuple of counts as the key
+        #     anagrams[tuple(count)].append(word)  # Use tuple of counts as the key
 
 
         
-        return list(anagrams.values()) 
+        # return list(anagrams.values()) 
         
