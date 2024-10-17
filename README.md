@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0890-lemonade-change) |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
