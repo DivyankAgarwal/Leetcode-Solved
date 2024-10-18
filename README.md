@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2413-smallest-number-in-infinite-set) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0455-assign-cookies) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0455-assign-cookies) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -298,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0338-counting-bits) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Dynamic Programming
