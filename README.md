@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0191-number-of-1-bits) |
