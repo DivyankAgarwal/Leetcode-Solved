@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0191-number-of-1-bits) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Dynamic Programming
