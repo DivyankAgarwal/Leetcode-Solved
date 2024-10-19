@@ -41,23 +41,15 @@ class Solution:
 
                 if pairs != 0:
                     if len(front) == 0 and digit == 0:
-                        '''
-                        This block of code is trying to ensure that if there are only zeros in the input, 
-                        at least one zero is placed in the final palindrome (because a number consisting only of zeros should return '0', 
-                        not an empty string).
-                        By setting digit_counts['0'] = 1, the intention is to make sure at least one '0' is available 
-                        for constructing the palindrome.
                         
-                        '''
-                        digit_counts['0'] = 1
+                        # digit_counts['0'] = 1
+                        continue
                     else:
                         front.append(digit_char * pairs)
 
                 if count % 2 == 1 and not center:
                     center = digit_char
         
-        # if len(center) == '' and len(front) == 0:
-        #     return "0"
 
     
         front_part = ''.join(front)
