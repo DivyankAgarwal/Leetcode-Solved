@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
+| [1086-divisor-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1086-divisor-game) |
 ## Geometry
 |  |
 | ------- |
@@ -331,8 +332,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0646-maximum-length-of-pair-chain) |
+| [1086-divisor-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1086-divisor-game) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
