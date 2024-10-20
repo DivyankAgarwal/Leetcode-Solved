@@ -28,19 +28,35 @@ class Solution:
         the LCA found in that subtree.
         
         '''
-        if root == None or root == p or root == q:
-            return root
+        # if root == None or root == p or root == q:
+        #     return root
 
-        left = self.lowestCommonAncestor(root.left, p,q)
-        right = self.lowestCommonAncestor(root.right, p,q)
+        # left = self.lowestCommonAncestor(root.left, p,q)
+        # right = self.lowestCommonAncestor(root.right, p,q)
 
 
-        if left is None:
-            return right
+        # if left is None:
+        #     return right
 
-        elif right is None:
-            return left
+        # elif right is None:
+        #     return left
 
-        else:
-            return root
+        # else:
+        #     return root
+
+
+        #better approach
+        # Start from the root of the tree
+        current = root
         
+        while current:
+            
+            if p.val < current.val and q.val < current.val:
+                current = current.left
+           
+            elif p.val > current.val and q.val > current.val:
+                current = current.right
+            # If one node is on the left and the other is on the right (or one is equal to current), we've found the LCA
+            else:
+                return current
+            
