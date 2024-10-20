@@ -6,6 +6,14 @@
 #         self.right = right
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
+
+        '''
+        Time Complexity: O(N^2) where N is the number of nodes in the Binary Tree. 
+        For each node in the Binary Tree, all other nodes are traversed 
+        to calculate its height, resulting in a nested traversal structure, leading 
+        to O(N) operations for each of the N nodes, hence O(N * N) = O(N^2).
+        
+        '''
         
         #Brute O(n2)
         # def get_height(root):
