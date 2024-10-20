@@ -19,21 +19,30 @@ class Solution:
 
         while q:
             n = len(q)
+            level = []
 
             for i in range(n):
 
                 node = q.popleft()
                 
-                if i == n-1:
-                    ans.append(node.val)
+                # if i == n-1:
+                #     ans.append(node.val)
+                level.append(node.val)
 
                 if node.left:
                     q.append(node.left)
 
                 if node.right:
                     q.append(node.right)
+            
+            ans.append(level)
 
-        return ans
+        # return ans
+
+        result = []
+        for level in ans:
+            result.append(level[-1])
+        return result
 
         
 
