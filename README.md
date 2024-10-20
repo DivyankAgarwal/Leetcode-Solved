@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0646-maximum-length-of-pair-chain) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0054-spiral-matrix) |
+| [0542-01-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0542-01-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1331-path-with-maximum-gold) |
 | [1677-matrix-diagonal-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1677-matrix-diagonal-sum) |
 | [2089-maximum-matrix-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2089-maximum-matrix-sum) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [1086-divisor-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1086-divisor-game) |
 ## Prefix Sum
