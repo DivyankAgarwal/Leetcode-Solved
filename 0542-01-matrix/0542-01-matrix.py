@@ -36,9 +36,9 @@ class Solution:
 
             for i in range(len(q)):
 
-                data = q.popleft()
-                row,col = data[0]
-                step = data[1]
+                data,step = q.popleft()
+                row,col = data[0], data[1]
+                
                 distance[row][col] = step
 
                 for i in range(4):
