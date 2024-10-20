@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0898-transpose-matrix) |
 | [1002-maximum-width-ramp](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1127-last-stone-weight) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0542-01-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0542-01-matrix) |
+| [0898-transpose-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0898-transpose-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1331-path-with-maximum-gold) |
 | [1677-matrix-diagonal-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1677-matrix-diagonal-sum) |
 | [2089-maximum-matrix-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2089-maximum-matrix-sum) |
@@ -360,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
