@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2413-smallest-number-in-infinite-set) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0890-lemonade-change) |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0646-maximum-length-of-pair-chain) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
