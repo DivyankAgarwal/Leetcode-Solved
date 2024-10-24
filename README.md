@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1304-longest-happy-string) |
 | [1345-perform-string-shifts](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1345-perform-string-shifts) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2475-largest-palindromic-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2475-largest-palindromic-number) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 ## Breadth-First Search
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1331-path-with-maximum-gold) |
 | [1345-perform-string-shifts](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1345-perform-string-shifts) |
 | [1677-matrix-diagonal-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1677-matrix-diagonal-sum) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2089-maximum-matrix-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2089-maximum-matrix-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Stack
