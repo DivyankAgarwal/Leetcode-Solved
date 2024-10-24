@@ -324,10 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0206-reverse-linked-list](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0394-decode-string) |
 ## String Matching
 |  |
