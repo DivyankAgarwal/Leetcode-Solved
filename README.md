@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1074-high-five](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1074-high-five) |
 | [2413-smallest-number-in-infinite-set](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2413-smallest-number-in-infinite-set) |
 | [2475-largest-palindromic-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2475-largest-palindromic-number) |
 ## String
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0898-transpose-matrix) |
 | [1002-maximum-width-ramp](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
+| [1074-high-five](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1127-last-stone-weight) |
 | [1331-path-with-maximum-gold](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1331-path-with-maximum-gold) |
 | [1677-matrix-diagonal-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1677-matrix-diagonal-sum) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [1014-k-closest-points-to-origin](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
+| [1074-high-five](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1074-high-five) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 ## Heap (Priority Queue)
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
+| [1074-high-five](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1304-longest-happy-string) |
 | [2413-smallest-number-in-infinite-set](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2413-smallest-number-in-infinite-set) |
