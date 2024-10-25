@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0127-word-ladder) |
+| [0166-fraction-to-recurring-decimal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0127-word-ladder) |
+| [0166-fraction-to-recurring-decimal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0394-decode-string) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0029-divide-two-integers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
