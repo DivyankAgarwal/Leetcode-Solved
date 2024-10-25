@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0127-word-ladder](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0542-01-matrix) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0542-01-matrix) |
 | [0898-transpose-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0898-transpose-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1331-path-with-maximum-gold) |
@@ -406,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0898-transpose-matrix) |
 | [1119-robot-bounded-in-circle](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1119-robot-bounded-in-circle) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
