@@ -25,26 +25,25 @@ class Solution:
 
         # return len(result)
 
-        write = 0
-        count = 1
+        read, write = 0, 0
+        n = len(chars)
         
-        for i in range(1, len(chars) + 1):
+        while read < n:
+            char = chars[read]
+            count = 0
             
-            if i < len(chars) and chars[i] == chars[i - 1]:
+            while read < n and chars[read] == char:
                 count += 1
-            else:
-                
-                chars[write] = chars[i - 1]
-                write += 1
-                
-                
-                if count > 1:
-                    for digit in str(count):
-                        chars[write] = digit
-                        write += 1
-                
-                
-                count = 1
-        
-        return write
+                read += 1
             
+            
+            chars[write] = char
+            write += 1
+            
+            
+            if count > 1:
+                for digit in str(count):
+                    chars[write] = digit
+                    write += 1
+        
+        return write 
