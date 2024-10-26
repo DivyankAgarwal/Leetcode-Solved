@@ -31,19 +31,23 @@ class Solution:
 
         #Optimized
 
-        m, n = len(grid), len(grid[0])
+        row, col = len(grid), len(grid[0])
     
         # Fill the first row
-        for j in range(1, n):
+        for j in range(1, col):
             grid[0][j] += grid[0][j - 1]
         
         # Fill the first column
-        for i in range(1, m):
+        for i in range(1, row):
             grid[i][0] += grid[i - 1][0]
         
+        print(grid)
+        
         # Fill in the rest of the grid
-        for i in range(1, m):
-            for j in range(1, n):
+        for i in range(1, row):
+            for j in range(1, col):
                 grid[i][j] += min(grid[i - 1][j], grid[i][j - 1])
+
+        print(grid)
         
         return grid[-1][-1]  
