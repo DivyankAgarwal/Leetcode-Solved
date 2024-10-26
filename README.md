@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0118-pascals-triangle) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0542-01-matrix) |
 | [0898-transpose-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0898-transpose-matrix) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0338-counting-bits) |
