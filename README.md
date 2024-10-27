@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0338-counting-bits) |
@@ -447,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
