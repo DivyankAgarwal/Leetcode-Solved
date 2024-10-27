@@ -1,20 +1,41 @@
 class Solution:
     def findTheWinner(self, n: int, k: int) -> int:
         
-        #brute
-        players = list(range(1, n + 1))  
-        index = 0  
+        #brute TC: O(n * k)
+        # players = list(range(1, n + 1))  
+        # index = 0  
 
        
-        while len(players) > 1:
+        # while len(players) > 1:
         
-            remove_ind = (index + k - 1) % len(players)
-            # index = (index + k - 1) % len(players)
+        #     index = (k-1) % len(players)
 
-            # Remove the k-th person
-            players.pop(remove_ind)
+        #     for _ in range(index):
+        #         players.append(players.pop(0))
 
-            index = remove_ind
+        #     players.pop(0)
+
+        # return players[0]
+
+        #better TC: O(n2)
+
+        # players = list(range(1, n + 1))  
+        # index = 0  
+
+       
+        # while len(players) > 1:
         
-        # The last remaining player is the winner
-        return players[0]
+        #     index = (index + k-1) % len(players)
+
+        #     players.pop(index)
+
+        # return players[0]
+
+
+        #optimized TC:O(n)
+
+        winner = 0  
+        for i in range(2, n + 1):
+            winner = (winner + k) % i
+        
+        return winner + 1  # Convert to 1-based indexing
