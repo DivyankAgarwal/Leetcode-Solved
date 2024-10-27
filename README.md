@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-perform-string-shifts](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1345-perform-string-shifts) |
 | [1677-matrix-diagonal-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2089-maximum-matrix-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2089-maximum-matrix-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Stack
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1086-divisor-game) |
 | [1119-robot-bounded-in-circle](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1119-robot-bounded-in-circle) |
 | [1345-perform-string-shifts](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1345-perform-string-shifts) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Geometry
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0394-decode-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String Matching
 |  |
 | ------- |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0898-transpose-matrix) |
 | [1119-robot-bounded-in-circle](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1119-robot-bounded-in-circle) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Union Find
 |  |
 | ------- |
@@ -433,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0146-lru-cache) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
