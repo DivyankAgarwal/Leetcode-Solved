@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1074-high-five) |
 | [2413-smallest-number-in-infinite-set](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2413-smallest-number-in-infinite-set) |
 | [2475-largest-palindromic-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2475-largest-palindromic-number) |
+| [3474-better-compression-of-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/3474-better-compression-of-string) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2475-largest-palindromic-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2475-largest-palindromic-number) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
+| [3474-better-compression-of-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/3474-better-compression-of-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1074-high-five) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
+| [3474-better-compression-of-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/3474-better-compression-of-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [2475-largest-palindromic-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2475-largest-palindromic-number) |
+| [3474-better-compression-of-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/3474-better-compression-of-string) |
 ## Two Pointers
 |  |
 | ------- |
