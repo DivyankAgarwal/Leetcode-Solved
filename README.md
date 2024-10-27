@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0071-simplify-path) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0295-find-median-from-data-stream) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0064-minimum-path-sum) |
