@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0937-online-stock-span) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0146-lru-cache](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -423,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0200-number-of-islands) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
