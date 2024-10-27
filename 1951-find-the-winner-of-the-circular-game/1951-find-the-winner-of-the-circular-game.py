@@ -7,10 +7,14 @@ class Solution:
 
        
         while len(players) > 1:
-            # Move to the k-th person (k-1 steps forward)
-            index = (index + k - 1) % len(players)
+        
+            remove_ind = (index + k - 1) % len(players)
+            # index = (index + k - 1) % len(players)
+
             # Remove the k-th person
-            players.pop(index)
+            players.pop(remove_ind)
+
+            index = remove_ind
         
         # The last remaining player is the winner
         return players[0]
