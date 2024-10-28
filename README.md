@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0260-single-number-iii) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0542-01-matrix) |
