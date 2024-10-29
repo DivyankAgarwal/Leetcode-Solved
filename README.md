@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0189-rotate-array) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0118-pascals-triangle) |
@@ -457,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
