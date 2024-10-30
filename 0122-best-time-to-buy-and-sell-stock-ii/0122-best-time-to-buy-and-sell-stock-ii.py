@@ -22,29 +22,53 @@ class Solution:
         # return check(0,0)
 
         #memoization
+        # n = len(prices)
+        # dp = [[-1 for _ in range(2) ] for _ in range(n)]
+        
+        # def check(index, buy):
+        #     if index == n:
+        #         return 0
+
+        #     if dp[index][buy] != -1:
+        #         return dp[index][buy]
+        #     profit = 0
+
+        #     if buy == 0:
+        #         profit = max( 0 + check( index+1,0 ), -1*prices[index] + check( index+1,1 ) )
+
+        #     elif buy == 1:
+        #         profit = max( 0 + check(index+1, 1 ), prices[index] + check(index+1, 0 ) )
+
+
+        #     dp[index][buy] = profit
+
+        #     return dp[index][buy]
+
+
+        # ans = check(0,0)
+        # return ans
+        
+        #tabulation
         n = len(prices)
-        dp = [[-1 for _ in range(2) ] for _ in range(n)]
-        
-        def check(index, buy):
-            if index == n:
-                return 0
+        dp = [[-1 for _ in range(2)] for _ in range(n+1)]
 
-            if dp[index][buy] != -1:
-                return dp[index][buy]
-            profit = 0
-
-            if buy == 0:
-                profit = max( 0 + check( index+1,0 ), -1*prices[index] + check( index+1,1 ) )
-
-            elif buy == 1:
-                profit = max( 0 + check(index+1, 1 ), prices[index] + check(index+1, 0 ) )
+        dp[n][0] = dp[n][1] = 0
 
 
-            dp[index][buy] = profit
+        for index in reversed(range(n)):
 
-            return dp[index][buy]
+            for buy in range(2):
+
+                if buy == 0:
+                    profit = max(0 + dp[index+1][0], -1*prices[index] + dp[index+1][1])
 
 
-        ans = check(0,0)
-        return ans
-        
+                elif buy == 1:
+                    profit = max(0 + dp[index+1][1], prices[index] + dp[index+1][0])
+
+
+                dp[index][buy] = profit
+
+        return dp[0][0]
+
+
