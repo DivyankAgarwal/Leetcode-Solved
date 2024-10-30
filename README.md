@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
 | [1119-robot-bounded-in-circle](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1119-robot-bounded-in-circle) |
 | [1250-longest-common-subsequence](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1250-longest-common-subsequence) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
