@@ -45,7 +45,7 @@ class Solution:
 
             #overlapping issue
             if dp[index][target] != -1:
-                return dp[index][target] == 1
+                return dp[index][target]
 
             
             nonpick = check(index-1, target,nums,dp)
@@ -54,8 +54,10 @@ class Solution:
             if target >= nums[index]:
                 pick = check(index-1, target-nums[index],nums,dp)
 
-            dp[index][target] = 1 if nonpick or pick else 0
-            return dp[index][target] == 1
+            # dp[index][target] = 1 if nonpick or pick else 0
+            # return dp[index][target] == 1
+            dp[index][target] = pick or nonpick
+            return dp[index][target]
 
 
 
