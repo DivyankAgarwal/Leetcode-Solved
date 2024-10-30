@@ -12,31 +12,31 @@ class Solution:
 
         #optimal
 
-        # profit = 0
+        profit = 0
 
-        # mini = float('inf')
+        mini = prices[0]
 
-        # for i in range(0, len(prices)):
-        #     cost = prices[i] - mini
+        for i in range(1, len(prices)):
+            cost = prices[i] - mini
 
-        #     profit = max(profit, cost)
+            profit = max(profit, cost)
 
-        #     mini = min(mini, prices[i])
+            mini = min(mini, prices[i])
 
         
-        # return profit
-        max_profit = 0
-        min_price = float('inf')
+        return profit
+        # max_profit = 0
+        # min_price = float('inf')
 
-        for i in range(len(prices)):
-            if prices[i] < min_price:
-                min_price = prices[i]
+        # for i in range(len(prices)):
+        #     if prices[i] < min_price:
+        #         min_price = prices[i]
 
-            else:
-                profit = prices[i] - min_price
-                max_profit = max(max_profit, profit)
+        #     else:
+        #         profit = prices[i] - min_price
+        #         max_profit = max(max_profit, profit)
         
-        return max_profit
+        # return max_profit
 
 
         
