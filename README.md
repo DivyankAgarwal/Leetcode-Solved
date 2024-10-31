@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0371-sum-of-two-integers) |
+| [0796-reaching-points](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0796-reaching-points) |
 | [1014-k-closest-points-to-origin](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1086-divisor-game) |
 | [1119-robot-bounded-in-circle](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1119-robot-bounded-in-circle) |
