@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
+| [0874-backspace-string-compare](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0874-backspace-string-compare) |
 | [1119-robot-bounded-in-circle](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1119-robot-bounded-in-circle) |
 | [1250-longest-common-subsequence](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1304-longest-happy-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0394-decode-string) |
+| [0874-backspace-string-compare](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1002-maximum-width-ramp) |
 ## Monotonic Stack
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
+| [0874-backspace-string-compare](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0874-backspace-string-compare) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Ordered Set
 |  |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0054-spiral-matrix) |
+| [0874-backspace-string-compare](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0898-transpose-matrix) |
 | [1119-robot-bounded-in-circle](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1119-robot-bounded-in-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
