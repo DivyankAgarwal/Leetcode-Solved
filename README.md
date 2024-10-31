@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0516-longest-palindromic-subsequence) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [2475-largest-palindromic-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2475-largest-palindromic-number) |
 | [3474-better-compression-of-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/3474-better-compression-of-string) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
