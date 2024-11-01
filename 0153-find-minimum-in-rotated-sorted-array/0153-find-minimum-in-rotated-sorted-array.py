@@ -16,9 +16,9 @@ class Solution:
         while low<=high:
             mid = low + (high - low) // 2
 
-            if nums[low] <= nums[mid] <= nums[high]:
-                ans = min(ans, nums[low])
-                break
+            # if nums[low] <= nums[mid] <= nums[high]:
+            #     ans = min(ans, nums[low])
+            #     break
 
             #check if left is sorted. The idea is rotating point will always have the lowest element. 
             if nums[low] <= nums[mid]:
