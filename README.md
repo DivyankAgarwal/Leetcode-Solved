@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0012-integer-to-roman) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0091-decode-ways) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0295-find-median-from-data-stream) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
