@@ -32,6 +32,15 @@ class Solution:
         
         #mempoization
 
+        '''
+        Time Complexity:O(N*Target), as there are N*Target states therefore at max 
+        ‘N*Target’ new problems will be solved.
+
+        Space Complexity:O(N*Target) + O(N), the stack space will be O(N) and a 
+        2D array of size N*T is used.
+        
+        '''
+
         def check(index,coins,amount,dp):
 
             if index == 0:
