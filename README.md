@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1304-longest-happy-string) |
 | [1345-perform-string-shifts](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1345-perform-string-shifts) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2475-largest-palindromic-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2475-largest-palindromic-number) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |
