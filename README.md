@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2047-find-a-peak-element-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2089-maximum-matrix-sum) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2047-find-a-peak-element-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2047-find-a-peak-element-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Tree
 |  |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0967-minimum-falling-path-sum) |
 | [1331-path-with-maximum-gold](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1331-path-with-maximum-gold) |
 | [1677-matrix-diagonal-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1677-matrix-diagonal-sum) |
+| [2047-find-a-peak-element-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2089-maximum-matrix-sum) |
 | [2737-row-with-maximum-ones](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2737-row-with-maximum-ones) |
 ## Bit Manipulation
