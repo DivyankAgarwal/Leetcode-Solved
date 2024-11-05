@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2737-row-with-maximum-ones](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2737-row-with-maximum-ones) |
 ## Stack
 |  |
 | ------- |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1331-path-with-maximum-gold) |
 | [1677-matrix-diagonal-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1677-matrix-diagonal-sum) |
 | [2089-maximum-matrix-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2089-maximum-matrix-sum) |
+| [2737-row-with-maximum-ones](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2737-row-with-maximum-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
