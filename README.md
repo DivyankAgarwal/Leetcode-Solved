@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0198-house-robber) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0240-search-a-2d-matrix-ii) |
