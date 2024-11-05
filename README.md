@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0874-backspace-string-compare) |
 | [1119-robot-bounded-in-circle](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1119-robot-bounded-in-circle) |
+| [1170-shortest-common-supersequence](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1304-longest-happy-string) |
 | [1345-perform-string-shifts](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1345-perform-string-shifts) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1086-divisor-game) |
+| [1170-shortest-common-supersequence](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Prefix Sum
