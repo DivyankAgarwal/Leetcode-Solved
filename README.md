@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0545-boundary-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -559,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
