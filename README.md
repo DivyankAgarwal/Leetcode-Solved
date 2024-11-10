@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2475-largest-palindromic-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2475-largest-palindromic-number) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 | [3474-better-compression-of-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/3474-better-compression-of-string) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1002-maximum-width-ramp) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1304-longest-happy-string) |
 | [2089-maximum-matrix-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2089-maximum-matrix-sum) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2475-largest-palindromic-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2475-largest-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0874-backspace-string-compare) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Ordered Set
