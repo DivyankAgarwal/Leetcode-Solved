@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0166-fraction-to-recurring-decimal) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0494-target-sum) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0542-01-matrix) |
