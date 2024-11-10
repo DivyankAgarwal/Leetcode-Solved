@@ -17,41 +17,37 @@ class Solution:
 
         visited = [ [0 for _ in range(len(mat[0]))] for _ in range(len(mat))]
 
-        print(distance)
 
-        #bfs
+        rows = len(mat)
+        cols = len(mat[0])
+
         q = deque()
 
-        for i in range(len(mat)):
-            for j in range(len(mat[0])):
+        for r in range(rows):
+            for c in range(cols):
+                if mat[r][c] == 0:
+                    q.append([(r,c),0])
+                    visited[r][c] = 1
 
-                if mat[i][j] == 0:
-                    q.append([(i,j),0])
-                    visited[i][j] = 1
+        print(q)
 
         deltaRows = [-1,0,1,0]
-        deltaCol = [0,1,0,-1]
+        deltaCols = [0,1,0,-1]
 
         while q:
 
-            for i in range(len(q)):
-
-                data,step = q.popleft()
-                row,col = data[0], data[1]
-                
-                distance[row][col] = step
+            for _ in range(len(q)):
+                node, step = q.popleft()
+                r = node[0]
+                c = node[1]
+                distance[r][c] = step
 
                 for i in range(4):
-                    nR = row + deltaRows[i]
-                    nC = col + deltaCol[i]
+                    nR = r + deltaRows[i]
+                    nC = c + deltaCols[i]
 
-                    if isValid(nR, nC) and visited[nR][nC] == 0:
-
+                    if isValid(nR,nC) and visited[nR][nC] == 0:
                         visited[nR][nC] = 1
-                        q.append([(nR,nC), step+1])
+                        q.append([(nR, nC), step+1])
         
         return distance
-
-
-
-        
