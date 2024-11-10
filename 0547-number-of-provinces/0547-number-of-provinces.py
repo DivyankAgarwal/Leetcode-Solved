@@ -16,10 +16,11 @@ class Solution:
 
         for i in range(V):
             for j in range(V):
-                if isConnected[i][j] == 1 and i!=j:
+                if isConnected[i][j] == 1: #and i!=j:
                     adjList[i].append(j)
-                    adjList[j].append(i)
+                    # adjList[j].append(i)
 
+        print(adjList)
         count = 0
         visited = [0] * V
 
