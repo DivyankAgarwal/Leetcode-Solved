@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1074-high-five) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
+| [0778-reorganize-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0874-backspace-string-compare) |
 | [1119-robot-bounded-in-circle](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1119-robot-bounded-in-circle) |
 | [1170-shortest-common-supersequence](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1170-shortest-common-supersequence) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0646-maximum-length-of-pair-chain) |
+| [0778-reorganize-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1074-high-five) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1074-high-five) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0778-reorganize-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1304-longest-happy-string) |
 | [2089-maximum-matrix-sum](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2089-maximum-matrix-sum) |
@@ -384,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/0778-reorganize-string) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2475-largest-palindromic-number](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/2475-largest-palindromic-number) |
 | [3474-better-compression-of-string](https://github.com/DivyankAgarwal/Leetcode-Solved/tree/master/3474-better-compression-of-string) |
