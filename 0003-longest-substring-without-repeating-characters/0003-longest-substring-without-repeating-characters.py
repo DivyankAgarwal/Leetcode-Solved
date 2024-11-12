@@ -12,8 +12,10 @@ class Solution:
                     left +=1
 
             checker.add(s[right])
+
+            ans = max(ans, (right-left+1))
             
-            if right - left + 1 > ans:
-                ans = (right-left+1)
+            # if right - left + 1 > ans:
+            #     ans = (right-left+1)
         
         return ans
